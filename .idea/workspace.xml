@@ -39,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/BasicQueueOperation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -47,6 +47,27 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Robotics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/BalancedParantheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -84,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/BasicStackOperations.java" />
         <option value="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/MaximumElement.java" />
         <option value="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/BasicQueueOperation.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Robotics.java" />
       </list>
     </option>
   </component>
@@ -144,7 +166,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseNumbersWithAStack">
+  <component name="RunManager" selected="Application.BalancedParantheses">
+    <configuration name="BalancedParantheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.StacksAndQueues.BalancedParantheses" />
+      <module name="Softuni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAdvanced.StacksAndQueues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FillTheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaAdvanced.LinearDataStructures.FillTheMatrix" />
       <module name="Softuni" />
@@ -173,6 +208,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BalancedParantheses" />
         <item itemvalue="Application.ReverseNumbersWithAStack" />
         <item itemvalue="Application.FillTheMatrix" />
       </list>
@@ -188,15 +224,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563970369794</updated>
-      <workItem from="1563970373070" duration="2265000" />
+      <workItem from="1563970373070" duration="3492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2265000" />
+    <option name="totallyTimeSpent" value="3492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -277,6 +314,23 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Robotics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/BalancedParantheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
         </state>
       </provider>
     </entry>
