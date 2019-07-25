@@ -53,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/FillTheMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="401">
+              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -215,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleTextEditor">
+  <component name="RunManager" selected="Application.FillTheMatrix (1)">
     <configuration name="BalancedParantheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaAdvanced.StacksAndQueues.BalancedParantheses" />
       <module name="Softuni" />
@@ -229,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FillTheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.LinearDataStructures.FillTheMatrix" />
+    <configuration name="FillTheMatrix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.MultidimensionalArrays.FillTheMatrix" />
       <module name="Softuni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAdvanced.LinearDataStructures.*" />
+          <option name="PATTERN" value="JavaAdvanced.MultidimensionalArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FillTheMatrix (1)" />
         <item itemvalue="Application.SimpleTextEditor" />
         <item itemvalue="Application.RecursiveFibonacci" />
         <item itemvalue="Application.BalancedParantheses" />
         <item itemvalue="Application.ReverseNumbersWithAStack" />
-        <item itemvalue="Application.FillTheMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -302,18 +302,17 @@
       <option name="presentableId" value="Default" />
       <updated>1563970369794</updated>
       <workItem from="1563970373070" duration="4090000" />
-      <workItem from="1564055023290" duration="914000" />
+      <workItem from="1564055023290" duration="1997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5004000" />
+    <option name="totallyTimeSpent" value="6087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -322,7 +321,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,8 +430,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/FillTheMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="401">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
