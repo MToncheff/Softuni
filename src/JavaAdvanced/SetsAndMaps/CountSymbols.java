@@ -9,9 +9,10 @@ public class CountSymbols {
     static final int MAX_CHAR = 256;
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-        String userInput = bufferedReader.readLine();
-        char[] theText = userInput.toCharArray();
-        getOccuringChar(theText);
+        char tempArray[] = bufferedReader.readLine().toCharArray();
+        Arrays.sort(tempArray);
+        var str = new String(tempArray);
+        getOccuringChar(str);
 
     }
     static void getOccuringChar(String theText) {
@@ -33,7 +34,7 @@ public class CountSymbols {
             }
 
             if (find == 1)
-                System.out.println(theText.charAt(i) + ": " +count[theText.charAt(i)] + " time/s");
+                System.out.println((theText.charAt(i)) + ": " +count[theText.charAt(i)] + " time/s");
         }
 
 
