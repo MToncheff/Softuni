@@ -92,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/PeriodicTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/SimpleTextEditor.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/CountSymbols.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+            <state relative-caret-position="187">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/UniqueUsernames.java" />
         <option value="$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/SetOfElements.java" />
         <option value="$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/PeriodicTable.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/CountSymbols.java" />
       </list>
     </option>
   </component>
@@ -241,7 +242,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PeriodicTable">
+  <component name="RunManager" selected="Application.CountSymbols">
+    <configuration name="CountSymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.SetsAndMaps.CountSymbols" />
+      <module name="Softuni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAdvanced.SetsAndMaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Crossfire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaAdvanced.MultidimensionalArrays.Crossfire" />
       <module name="Softuni" />
@@ -281,19 +295,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMatrixRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.MultidimensionalArrays.StringMatrixRotation" />
-      <module name="Softuni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaAdvanced.MultidimensionalArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UniqueUsernames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaAdvanced.SetsAndMaps.UniqueUsernames" />
       <module name="Softuni" />
@@ -309,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountSymbols" />
         <item itemvalue="Application.PeriodicTable" />
         <item itemvalue="Application.SetOfElements" />
         <item itemvalue="Application.UniqueUsernames" />
         <item itemvalue="Application.Crossfire" />
-        <item itemvalue="Application.StringMatrixRotation" />
       </list>
     </recent_temporary>
   </component>
@@ -329,12 +330,12 @@
       <updated>1563970369794</updated>
       <workItem from="1563970373070" duration="4090000" />
       <workItem from="1564055023290" duration="5588000" />
-      <workItem from="1564132833551" duration="7376000" />
+      <workItem from="1564132833551" duration="10952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17054000" />
+    <option name="totallyTimeSpent" value="20630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -556,8 +557,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/PeriodicTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/CountSymbols.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
