@@ -15,18 +15,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/MatrixOfPalindromes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/DiagonalDifference.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="833">
@@ -47,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/StringMatrixRotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+            <state relative-caret-position="221">
+              <caret line="13" column="99" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="99" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,28 +48,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/function/ToIntFunction.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/MaximalSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+            <state relative-caret-position="-85">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/FileInputStream.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/Crossfire.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3706">
-              <caret line="242" column="23" selection-start-line="242" selection-start-column="23" selection-end-line="242" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/BalancedParantheses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+            <state relative-caret-position="-2251">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,10 +69,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/RecursiveFibonacci.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/UniqueUsernames.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/SetOfElements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/PeriodicTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,6 +163,10 @@
         <option value="$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/DiagonalDifference.java" />
         <option value="$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/MatrixShuffling.java" />
         <option value="$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/StringMatrixRotation.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/Crossfire.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/UniqueUsernames.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/SetOfElements.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/PeriodicTable.java" />
       </list>
     </option>
   </component>
@@ -202,6 +209,13 @@
               <item name="JavaAdvanced" type="462c0819:PsiDirectoryNode" />
               <item name="MultidimensionalArrays" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Softuni" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Softuni" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="SetsAndMaps" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -227,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Crossfire">
+  <component name="RunManager" selected="Application.PeriodicTable">
     <configuration name="Crossfire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaAdvanced.MultidimensionalArrays.Crossfire" />
       <module name="Softuni" />
@@ -241,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FillTheMatrix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.MultidimensionalArrays.FillTheMatrix" />
+    <configuration name="PeriodicTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.SetsAndMaps.PeriodicTable" />
       <module name="Softuni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAdvanced.MultidimensionalArrays.*" />
+          <option name="PATTERN" value="JavaAdvanced.SetsAndMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,25 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixOfPalindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.MultidimensionalArrays.MatrixOfPalindromes" />
+    <configuration name="SetOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.SetsAndMaps.SetOfElements" />
       <module name="Softuni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAdvanced.MultidimensionalArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MatrixShuffling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.MultidimensionalArrays.MatrixShuffling" />
-      <module name="Softuni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaAdvanced.MultidimensionalArrays.*" />
+          <option name="PATTERN" value="JavaAdvanced.SetsAndMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,13 +294,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UniqueUsernames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.SetsAndMaps.UniqueUsernames" />
+      <module name="Softuni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAdvanced.SetsAndMaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PeriodicTable" />
+        <item itemvalue="Application.SetOfElements" />
+        <item itemvalue="Application.UniqueUsernames" />
         <item itemvalue="Application.Crossfire" />
         <item itemvalue="Application.StringMatrixRotation" />
-        <item itemvalue="Application.MatrixShuffling" />
-        <item itemvalue="Application.MatrixOfPalindromes" />
-        <item itemvalue="Application.FillTheMatrix (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -315,12 +329,12 @@
       <updated>1563970369794</updated>
       <workItem from="1563970373070" duration="4090000" />
       <workItem from="1564055023290" duration="5588000" />
-      <workItem from="1564132833551" duration="2697000" />
+      <workItem from="1564132833551" duration="7376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12375000" />
+    <option name="totallyTimeSpent" value="17054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -493,10 +507,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/Crossfire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2251">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/MaximalSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/SetOfElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimensionalArrays/StringMatrixRotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        <state relative-caret-position="221">
+          <caret line="13" column="99" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/UniqueUsernames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/SetsAndMaps/PeriodicTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
